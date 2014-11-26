@@ -1,0 +1,26 @@
+{
+  "name": "winston-slackihook",
+  "version": "0.0.0",
+  "description": "Winston Transport for Slack chat integration with incoming webHooks.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxcnunes/winston-slackihook.git"
+  },
+  "keywords": [
+    "slack",
+    "wiston",
+    "log"
+  ],
+  "author": "Max Claus Nunes",
+  "license": "MIT",
+  "dependencies": {
+    "slackihook": "^1.0.0"
+  },
+  "peerDependencies": {
+    "winston": "^0.8.3"
+  }
+}
