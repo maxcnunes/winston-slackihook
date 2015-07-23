@@ -22,5 +22,8 @@
   },
   "dependencies": {
     "slackihook": "^1.0.0"
+  },
+  "devDependencies": {
+    "winston": "^1.0.1"
   }
 }
