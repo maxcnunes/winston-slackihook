@@ -1,5 +1,5 @@
 var winston = require('winston');
-var Slack = require('winston-slackihook').Slack;
+var Slack = require('../lib').Slack;
 
 
 var logger = new (winston.Logger)({
