@@ -1,6 +1,6 @@
 {
   "name": "winston-slackihook",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Winston Transport for Slack chat integration with incoming webHooks.",
   "main": "lib/index.js",
   "scripts": {
