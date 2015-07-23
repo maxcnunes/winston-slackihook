@@ -17,10 +17,10 @@
   ],
   "author": "Max Claus Nunes",
   "license": "MIT",
+  "peerDependencies": {
+    "winston": "^1.0.1"
+  },
   "dependencies": {
     "slackihook": "^1.0.0"
-  },
-  "peerDependencies": {
-    "winston": "^0.8.3"
   }
 }
